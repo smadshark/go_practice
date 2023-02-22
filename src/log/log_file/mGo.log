@@ -1,0 +1,4 @@
+sLog2023/02/15 01:19:44 Hello there!
+[sLog] 2023/02/15 01:20:05 Hello there!
+LNum 2023/02/15 log_practice.go:22: Hello there!
+LNum 2023/02/15 01:23:08 log_practice.go:25: Another log entry!
